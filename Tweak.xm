@@ -32,7 +32,7 @@ static BOOL shouldEnablekFromPreference();
 - (void)screenOff {
 	%orig;
 	BOOL enabled = shouldEnablekFromPreference();
-		if (enabled) {
+	if (enabled) {
 		NSLog(@"[ForeverUnlocked] Overriding Device Lock!!"); 
 		[self unlock];
 	}
