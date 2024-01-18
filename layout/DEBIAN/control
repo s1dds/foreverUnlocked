@@ -1,0 +1,8 @@
+Package: com.appknox.foreverunlocked
+Name: foreverUnlocked
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Never let the device lock!
+Maintainer: s1dds, sammyjeng
+Author: s1dds, sammyjeng
+Section: Tweaks
