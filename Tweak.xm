@@ -1,5 +1,5 @@
 #include <Foundation/Foundation.h>
-#include <rootless.h>
+#import <rootless.h>
 #import "SBHomeButtonPressMesaUnlockTrigger.h"
 
 @interface SBLockScreenManager
